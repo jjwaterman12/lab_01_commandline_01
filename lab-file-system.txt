@@ -223,8 +223,7 @@ lemon
 
 Use only one command to make all of these new directories.  Write what command you used below:
 ----------
-
-mkdir
+mkdir -p pineapple/orange/strawberry/lemon
 
 ==========
 20. Make another directory called aardvark.  
